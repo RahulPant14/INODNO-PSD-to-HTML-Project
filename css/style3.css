@@ -81,7 +81,7 @@ body{
     .wrap-2 .icon{margin-top: 63px; padding: 15px;}
     .wrap-2 .icon p{padding: 28px 10px;}
     .wrap-2 .icon:hover{background: #e6e4e4; border-radius: 50px;}
-    .readmore{background: #ed1c24;display: inline-block; width: 96px;line-height: 31px ;color:#ffffff;}
+    .readmore{background: #9b1a1e;display: inline-block; width: 96px;line-height: 31px ;color:#ffffff;}
     .readmore:hover{box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;}
     .wrap-2 .p2, .p0, .p00, .p000 {display: none;}
 
@@ -144,7 +144,7 @@ body{
     .wrap-7 img{padding-right: 18px; }
     .wrap-7 h3{padding-bottom: 15px;}
     .wrap-7 p{line-height: 26px;}
-    .btn7 button{background:#ed1c24;color: #fff; padding: 20px 0;border: none;border-radius: 20px; width: 180px;}
+    .btn7 button{background:#b6161b;color: #fff; padding: 20px 0;border: none;border-radius: 20px; width: 180px;}
     .btn7 button:hover{background:#c55454;}
     .wrap-7 .quote {position: relative; height: 100%;}
     .wrap-7 .hide{display: none;}
